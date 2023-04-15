@@ -1,0 +1,6 @@
+[package]
+name        = "sudoku"
+description = "a sudoku solver"
+version     = "0.1.0"
+flix        = "0.35.0"
+authors     = ["Herluf B."]
